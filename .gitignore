@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+bin/
+obj/
+*.user
+.env
+appsettings.Development.json
+*.log
